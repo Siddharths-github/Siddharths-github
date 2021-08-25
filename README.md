@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Siddharths-github
+- 👋 Hi, I’m @Siddharth
 - 👀 I’m interested in ...Data analysis 
 - 🌱 I’m currently learning ...Global certification on Data science
 - 💞️ I’m looking to collaborate on ...Data science works
